@@ -1,0 +1,17 @@
+/* Navigation bar */
+#navbarSupportedContent {
+    padding-right: 100px;
+}
+
+#items li a {
+    font-weight: bold !important;
+}
+
+/* #image {
+    margin-left: 50px;
+} */
+
+/* 2nd part */
+#aboutus {
+    margin-top: 10px;
+}
